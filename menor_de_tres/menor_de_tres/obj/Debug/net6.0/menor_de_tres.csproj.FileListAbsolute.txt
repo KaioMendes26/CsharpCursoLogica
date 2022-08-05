@@ -1,0 +1,15 @@
+C:\workspace\C#\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.exe
+C:\workspace\C#\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.deps.json
+C:\workspace\C#\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.runtimeconfig.json
+C:\workspace\C#\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.dll
+C:\workspace\C#\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.pdb
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.csproj.AssemblyReference.cache
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.AssemblyInfoInputs.cache
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.AssemblyInfo.cs
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.dll
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\refint\menor_de_tres.dll
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.pdb
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.genruntimeconfig.cache
+C:\workspace\C#\menor_de_tres\menor_de_tres\obj\Debug\net6.0\ref\menor_de_tres.dll

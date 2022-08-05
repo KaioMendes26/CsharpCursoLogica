@@ -1,0 +1,15 @@
+C:\workspace\C#\cresente\cresente\bin\Debug\net6.0\cresente.exe
+C:\workspace\C#\cresente\cresente\bin\Debug\net6.0\cresente.deps.json
+C:\workspace\C#\cresente\cresente\bin\Debug\net6.0\cresente.runtimeconfig.json
+C:\workspace\C#\cresente\cresente\bin\Debug\net6.0\cresente.dll
+C:\workspace\C#\cresente\cresente\bin\Debug\net6.0\cresente.pdb
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.csproj.AssemblyReference.cache
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.AssemblyInfoInputs.cache
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.AssemblyInfo.cs
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.csproj.CoreCompileInputs.cache
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.dll
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\refint\cresente.dll
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.pdb
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\cresente.genruntimeconfig.cache
+C:\workspace\C#\cresente\cresente\obj\Debug\net6.0\ref\cresente.dll

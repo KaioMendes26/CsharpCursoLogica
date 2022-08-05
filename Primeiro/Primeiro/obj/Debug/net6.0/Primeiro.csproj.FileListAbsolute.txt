@@ -1,0 +1,15 @@
+C:\workspace\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\workspace\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\workspace\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\workspace\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\workspace\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\refint\Primeiro.dll
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+C:\workspace\C#\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
